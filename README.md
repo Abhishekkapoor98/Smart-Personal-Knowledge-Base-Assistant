@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Smart Personal Knowledge Base Assistant
 
 A Model Context Protocol (MCP) server that provides AI assistants with access to a local knowledge base. This server enables AI agents to search, add, and manage documents in a vector database for efficient retrieval and context-aware responses. It can connect with different LLMs to provide intelligent document processing and retrieval capabilities.
