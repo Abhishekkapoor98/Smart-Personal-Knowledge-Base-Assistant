@@ -124,10 +124,6 @@ To add new tools or capabilities:
 - API keys should be kept secure and never committed to version control
 - Consider implementing authentication if deploying in a multi-user environment
 
-## License
-
-MIT
 =======
 # Smart-Personal-Knowledge-Base-Assistant
 Smart Personal Knowledge Base Assistant using MCP to connect with Different LLM's
->>>>>>> 9430ce6ec63baddf41cab124c925413e9668ade7
